@@ -2,7 +2,8 @@ https://www.kaggle.com/c/m5-forecasting-accuracy/data
 
 In the challenge, we are predicting item sales at stores in various locations for two 28-day time periods.
 
-Files
+Files:
+
 calendar.csv - Contains information about the dates on which the products are sold.
 sales_train_validation.csv - Contains the historical daily unit sales data per product and store [d_1 - d_1913]
 sample_submission.csv - The correct format for submissions. Reference the Evaluation tab for more info.
